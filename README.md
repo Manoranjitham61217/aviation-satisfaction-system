@@ -44,6 +44,22 @@ After testing multiple models, the **Random Forest Classifier** performed the be
 📌 PCA was not used because the dataset was manageable, and Random Forest performed efficiently without dimensionality reduction.
 
 ---
+## 🖼️ Project Preview
+
+Below is a quick look at the interface and workflow of the Airline Satisfaction Prediction System.
+
+### 📌 Streamlit App UI
+
+![App Screenshot]("C:\Users\mmano\OneDrive - Rathinam Group Of Institutions\Pictures\Screenshots\Screenshot 2025-11-28 122010.png")
+
+---
+
+### 📌 Sample Prediction Output
+
+![Prediction Output]("C:\Users\mmano\OneDrive - Rathinam Group Of Institutions\Pictures\Screenshots\Screenshot 2025-11-28 122050.png")
+
+---
+
 
 
 
