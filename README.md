@@ -50,13 +50,16 @@ Below is a quick look at the interface and workflow of the Airline Satisfaction 
 
 ### 📌 Streamlit App UI
 
-![App Screenshot]("C:\Users\mmano\OneDrive - Rathinam Group Of Institutions\Pictures\Screenshots\Screenshot 2025-11-28 122010.png")
+<img width="1919" height="1018" alt="Screenshot 2025-11-28 122010" src="https://github.com/user-attachments/assets/be1bc1d5-cc25-4b7b-bbe0-7c1a9e1388ec" />
+
+
 
 ---
 
 ### 📌 Sample Prediction Output
 
-![Prediction Output]("C:\Users\mmano\OneDrive - Rathinam Group Of Institutions\Pictures\Screenshots\Screenshot 2025-11-28 122050.png")
+<img width="1910" height="825" alt="Screenshot 2025-11-28 122050" src="https://github.com/user-attachments/assets/98bbd7b3-898b-4735-b4c2-cc4d0341d3c4" />
+
 
 ---
 
